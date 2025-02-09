@@ -1,0 +1,107 @@
+==> allylic-1_2_hf.out <==
+
+
+ AND ALL THIS SCIENCE I DON'T UNDERSTAND
+ IT'S JUST MY JOB FIVE DAYS A WEEK
+
+                           -- ELTON JOHN, "ROCKET MAN"
+ Job cpu time:       0 days  2 hours 35 minutes 41.9 seconds.
+ Elapsed time:       0 days  0 hours 24 minutes 48.2 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      2 Scr=      1
+ Normal termination of Gaussian 16 at Tue Jan 16 21:55:07 2024.
+
+==> cyclic-1_2_hf.out <==
+
+
+ THERE IS SOMETHING FASCINATING ABOUT SCIENCE.
+ ONE GETS SUCH WHOLESALE CONJECTURE OUT OF SUCH TRIFLING INVESTMENTS.
+
+                                                       -- MARK TWAIN
+ Job cpu time:       0 days  3 hours 11 minutes 21.3 seconds.
+ Elapsed time:       0 days  0 hours 31 minutes 34.4 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      2 Scr=      1
+ Normal termination of Gaussian 16 at Tue Jan 16 22:16:56 2024.
+
+==> da-2_2_hf.out <==
+ THE TEST OF A FIRST RATE INTELLIGENCE IS THE ABILITY TO HOLD TWO OPPOSED
+ IDEAS IN THE MIND AT THE SAME TIME, AND STILL RETAIN THE ABILITY TO FUNCTION.
+ ONE SHOULD, FOR EXAMPLE, BE ABLE TO SEE THAT THINGS ARE HOPELESS AND YET BE
+ DETERMINED TO MAKE THEM OTHERWISE.
+
+                                                       -- F. SCOTT FITZGERALD
+ Job cpu time:       0 days  2 hours 39 minutes 51.3 seconds.
+ Elapsed time:       0 days  0 hours 26 minutes  9.3 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      2 Scr=      1
+ Normal termination of Gaussian 16 at Tue Jan 16 22:21:17 2024.
+
+==> imda-1_2_hf.out <==
+ 000981,0.00000113,-0.00000592,0.00000856,-0.00000097,0.00000955,-0.000
+ 00263\\\@
+ The archive entry for this job was punched.
+
+
+ THE WORLD IS NOT A HAMBURGER - YOU CAN'T HAVE IT YOUR WAY.
+ Job cpu time:       0 days  4 hours 33 minutes 40.5 seconds.
+ Elapsed time:       0 days  0 hours 45 minutes 36.0 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      2 Scr=      1
+ Normal termination of Gaussian 16 at Tue Jan 16 23:02:33 2024.
+
+==> imda-2_2_hf.out <==
+ 0000042,-0.00000410\\\@
+ The archive entry for this job was punched.
+
+
+ A warm smile is the universal language of kindness.
+                             -- William Arthur Ward
+ Job cpu time:       0 days  2 hours 52 minutes 41.1 seconds.
+ Elapsed time:       0 days  0 hours 28 minutes 49.0 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      2 Scr=      1
+ Normal termination of Gaussian 16 at Tue Jan 16 22:50:07 2024.
+
+==> TS-249_hf.out <==
+ -------------------------------------------------------------------
+ Cartesian Forces:  Max     0.007600351 RMS     0.002021571
+
+
+ REALITY IS FOR PEOPLE WHO CAN'T FACE SCIENCE FICTION.
+ Error termination request processed by link 9999.
+ Error termination via Lnk1e in /apps/gaussian/g16/C.01/g16/l9999.exe at Tue Jan 16 23:08:12 2024.
+ Job cpu time:       0 days  4 hours 36 minutes 53.6 seconds.
+ Elapsed time:       0 days  0 hours 41 minutes  1.7 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      1 Scr=      1
+
+==> TS-325_hf.out <==
+ Cartesian Forces:  Max     0.000027994 RMS     0.000005838
+
+
+ LIFE CAN ONLY BE UNDERSTOOD BACKWARD, BUT MUST
+ BE LIVED FORWARD. -- KIRKEGAARD
+ Error termination request processed by link 9999.
+ Error termination via Lnk1e in /apps/gaussian/g16/C.01/g16/l9999.exe at Wed Jan 17 01:16:18 2024.
+ Job cpu time:       0 days 17 hours  2 minutes 28.1 seconds.
+ Elapsed time:       0 days  2 hours 42 minutes 45.1 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      2 Scr=      1
+
+==> TS-68_hf.out <==
+
+ IT IS UNWORTHY OF EXCELLENT MEN TO LOSE HOURS LIKE SLAVES IN THE LABOR
+ OF CALCULATION WHICH COULD BE SAFELY RELEGATED TO ANYONE ELSE
+ IF A MACHINE WERE USED.
+    -- G.W. VON LEIBNIZ
+ Error termination request processed by link 9999.
+ Error termination via Lnk1e in /apps/gaussian/g16/C.01/g16/l9999.exe at Wed Jan 17 01:04:12 2024.
+ Job cpu time:       0 days 13 hours 17 minutes 53.7 seconds.
+ Elapsed time:       0 days  2 hours 14 minutes  2.3 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      2 Scr=      1
+
+==> TS-898_hf.out <==
+ Cartesian Forces:  Max     0.000039887 RMS     0.000009970
+
+
+ SOME PEOPLE TRY TO PULL THE WOOL OVER YOUR EYES
+ USING THE WRONG YARN.
+ Error termination request processed by link 9999.
+ Error termination via Lnk1e in /apps/gaussian/g16/C.01/g16/l9999.exe at Wed Jan 17 00:15:18 2024.
+ Job cpu time:       0 days  7 hours 24 minutes 34.5 seconds.
+ Elapsed time:       0 days  1 hours 12 minutes 42.9 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      2 Scr=      1
