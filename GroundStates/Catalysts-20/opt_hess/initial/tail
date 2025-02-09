@@ -1,0 +1,47 @@
+==> cinchonidine_OPLS3e_1000_1_opt_hess.out <==
+ I DRAG MY STUDENTS BY THE NOSE --
+ AND SEE THAT FOR ALL OUR SCIENCE AND ART
+ WE CAN KNOW NOTHING.  IT BURNS MY HEART.
+
+                                       -- FAUST
+ Error termination request processed by link 9999.
+ Error termination via Lnk1e in /apps/gaussian/g16/C.01/g16/l9999.exe at Thu Dec 14 18:39:22 2023.
+ Job cpu time:       0 days  9 hours 59 minutes 34.3 seconds.
+ Elapsed time:       0 days  0 hours 51 minutes  9.0 seconds.
+ File lengths (MBytes):  RWF=    801 Int=      0 D2E=      0 Chk=     22 Scr=      1
+
+==> cinchonidine_OPLS3e_1000_2_opt_hess.out <==
+ XXYZ=            -35.6616 YYXZ=            -14.3463 ZZXY=             17.9851
+ N-N= 1.763953055551D+03 E-N=-5.556397165264D+03  KE= 8.763209479426D+02
+
+
+ WHEN IT COMES TO CASH FLOW, IT SEEMS LIKE THE TIDE IS ALWAYS GOING OUT.
+ Error termination request processed by link 9999.
+ Error termination via Lnk1e in /apps/gaussian/g16/C.01/g16/l9999.exe at Thu Dec 14 19:06:01 2023.
+ Job cpu time:       0 days 11 hours  3 minutes 37.6 seconds.
+ Elapsed time:       0 days  0 hours 56 minutes 23.6 seconds.
+ File lengths (MBytes):  RWF=    799 Int=      0 D2E=      0 Chk=     23 Scr=      1
+
+==> segphos_OPLS3e_1_opt_hess.out <==
+ N-N= 5.782839508103D+03 E-N=-1.729080480101D+04  KE= 2.430521789365D+03
+
+
+ YOU KNOW YOU'RE A TEACHER WHEN YOU SAY 2, WRITE 3, AND MEAN 4.
+ -- RONALD ANSTROM, HIGH SCHOOL TEACHER, UNDERWOOD, N.D. 1974
+ Error termination request processed by link 9999.
+ Error termination via Lnk1e in /apps/gaussian/g16/C.01/g16/l9999.exe at Thu Dec 14 23:33:19 2023.
+ Job cpu time:       1 days 19 hours 23 minutes 28.0 seconds.
+ Elapsed time:       0 days  3 hours 42 minutes 18.6 seconds.
+ File lengths (MBytes):  RWF=   4481 Int=      0 D2E=      0 Chk=     62 Scr=      1
+
+==> terada_OPLS3e_1_opt_hess.out <==
+ The archive entry for this job was punched.
+
+
+ ERROR IS THE FORCE THAT WELDS MEN TOGETHER....
+ TRUTH IS COMMUNICATED TO MEN ONLY BY DEEDS OF TRUTH.
+           TOLSTOI,MY RELIGION
+ Job cpu time:       0 days  6 hours 34 minutes 10.0 seconds.
+ Elapsed time:       0 days  0 hours 33 minutes  6.6 seconds.
+ File lengths (MBytes):  RWF=   2706 Int=      0 D2E=      0 Chk=     59 Scr=      1
+ Normal termination of Gaussian 16 at Thu Dec 14 21:56:29 2023.

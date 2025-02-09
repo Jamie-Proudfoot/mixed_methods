@@ -1,0 +1,4 @@
+%chk=cinchonidine_OPLS3e_1000_1_opt_hess.chk
+%nprocshared=12
+%mem=48GB
+# m062x chkbasis guess=read geom=allchk scrf=(iefpcm,solvent=benzene) opt=(maxcycles=50,maxstep=10) freq=noraman
