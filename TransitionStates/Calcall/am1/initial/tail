@@ -1,0 +1,119 @@
+==> allylic-1_2_am1.out <==
+ Cartesian Forces:  Max     0.011567186 RMS     0.002856862
+
+
+ I HAVE NOT FAILED, I HAVE ONLY DISCOVERED 10,000
+ WAYS THAT DIDN'T WORK.  -- THOMAS A. EDISON
+ Error termination request processed by link 9999.
+ Error termination via Lnk1e in /apps/gaussian/g16/C.01/g16/l9999.exe at Wed Jan 17 01:44:48 2024.
+ Job cpu time:       0 days  3 hours 58 minutes 47.7 seconds.
+ Elapsed time:       0 days  0 hours 37 minutes  4.6 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      2 Scr=      1
+
+==> cyclic-1_2_am1.out <==
+
+
+ HO!  SUCH BUGS AND GOBLINS IN MY LIFE!
+
+                            -- HAMLET, ACT 5, SCENE 2
+ Error termination request processed by link 9999.
+ Error termination via Lnk1e in /apps/gaussian/g16/C.01/g16/l9999.exe at Wed Jan 17 02:02:32 2024.
+ Job cpu time:       0 days  5 hours 42 minutes 39.2 seconds.
+ Elapsed time:       0 days  0 hours 54 minutes 47.8 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      2 Scr=      1
+
+==> da-1_2_am1.out <==
+      HIS FEET WERE BLACK AS SOOT,
+           AND EVERYWHERE THAT MARY WENT
+                HIS SOOTY FOOT HE PUT.
+
+                    -- NONAME
+ Error termination request processed by link 9999.
+ Error termination via Lnk1e in /apps/gaussian/g16/C.01/g16/l9999.exe at Wed Jan 17 01:43:51 2024.
+ Job cpu time:       0 days  4 hours  0 minutes 37.5 seconds.
+ Elapsed time:       0 days  0 hours 35 minutes 40.3 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      1 Scr=      1
+
+==> da-2_2_am1.out <==
+ IS LIKE A HANDFUL OF EARTH;
+  WHAT WE HAVE YET TO LEARN
+   IS LIKE THE WHOLE WORLD.
+
+         -- AVVAYIAR
+ Error termination request processed by link 9999.
+ Error termination via Lnk1e in /apps/gaussian/g16/C.01/g16/l9999.exe at Wed Jan 17 02:11:02 2024.
+ Job cpu time:       0 days  5 hours 55 minutes 52.8 seconds.
+ Elapsed time:       0 days  0 hours 54 minutes 40.6 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      2 Scr=      1
+
+==> imda-1_2_am1.out <==
+ TO THE IMPORTANT POINT, I SAW THE OLD BIRD SIT UP AND COCK A BALEFUL GLANCE
+ AT ME! THEN A SUDDEN INSPIRATION CAME AND I SAID LORD KELVIN HAD LIMITED
+ THE AGE OF THE EARTH PROVIDED NO NEW SOURCE WAS DISCOVERED. THAT
+ PROPHETIC UTTERANCE REFERS TO WHAT WE ARE NOW CONSIDERING TONIGHT, RADIUM!
+ BEHOLD!  THE OLD BOY BEAMED UPON ME.
+ Error termination request processed by link 9999.
+ Error termination via Lnk1e in /apps/gaussian/g16/C.01/g16/l9999.exe at Wed Jan 17 02:34:37 2024.
+ Job cpu time:       0 days  7 hours 14 minutes 18.6 seconds.
+ Elapsed time:       0 days  1 hours 10 minutes 50.8 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      2 Scr=      1
+
+==> imda-2_2_am1.out <==
+ -------------------------------------------------------------------
+ Cartesian Forces:  Max     0.005189042 RMS     0.001094002
+
+
+ WOMEN HOLD UP HALF THE SKY. -- MAO TSE TUNG
+ Error termination request processed by link 9999.
+ Error termination via Lnk1e in /apps/gaussian/g16/C.01/g16/l9999.exe at Wed Jan 17 02:45:34 2024.
+ Job cpu time:       0 days  7 hours 43 minutes 47.3 seconds.
+ Elapsed time:       0 days  1 hours 14 minutes 34.0 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      2 Scr=      1
+
+==> TS-249_am1.out <==
+ MIMIC AND FABULOUS WORLDS OF THEIR OWN, BUT TO 
+ EXAMINE AND DISSECT THE NATURE OF THIS VERY WORLD 
+ ITSELF, MUST GO TO THE FACTS THEMSELVES FOR EVERYTHING.
+
+                               -- FRANCIS BACON, 1620
+ Error termination request processed by link 9999.
+ Error termination via Lnk1e in /apps/gaussian/g16/C.01/g16/l9999.exe at Wed Jan 17 02:13:31 2024.
+ Job cpu time:       0 days  3 hours 18 minutes 41.0 seconds.
+ Elapsed time:       0 days  0 hours 29 minutes 36.9 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      1 Scr=      1
+
+==> TS-325_am1.out <==
+
+ ALL MY ATTEMPTS TO ADAPT THE THEORETICAL FOUNDATIONS OF PHYSICS
+ TO THESE NEW NOTIONS FAILED COMPLETELY. IT WAS AS IF THE GROUND HAD
+ BEEN PULLED OUT FROM UNDER ONE WITH NO FIRM FOUNDATION TO BE SEEN ANYWHERE,
+ UPON WHICH ONE COULD HAVE BUILT.  -- A.EINSTEIN
+ Error termination request processed by link 9999.
+ Error termination via Lnk1e in /apps/gaussian/g16/C.01/g16/l9999.exe at Wed Jan 17 03:06:52 2024.
+ Job cpu time:       0 days  8 hours 20 minutes 29.8 seconds.
+ Elapsed time:       0 days  1 hours 22 minutes  1.2 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      2 Scr=      1
+
+==> TS-68_am1.out <==
+ Cartesian Forces:  Max     0.004253980 RMS     0.000938626
+
+
+ THERE'S NOTHING WRONG WITH FOLLOWING A TRAIN OF THOUGHT...
+ AS LONG AS IT ULTIMATELY PULLS INTO THE STATION.
+ Error termination request processed by link 9999.
+ Error termination via Lnk1e in /apps/gaussian/g16/C.01/g16/l9999.exe at Wed Jan 17 03:15:38 2024.
+ Job cpu time:       0 days  7 hours 27 minutes 38.0 seconds.
+ Elapsed time:       0 days  1 hours 13 minutes  3.8 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      2 Scr=      1
+
+==> TS-898_am1.out <==
+
+ LAWS OF PROGRAMMING DEFINITION:  A WORKING PROGRAM
+                                  IS ONE THAT HAS
+                                  ONLY UNOBSERVED
+                                  BUGS.
+ Error termination request processed by link 9999.
+ Error termination via Lnk1e in /apps/gaussian/g16/C.01/g16/l9999.exe at Wed Jan 17 03:04:19 2024.
+ Job cpu time:       0 days  5 hours 37 minutes 47.6 seconds.
+ Elapsed time:       0 days  0 hours 53 minutes 14.7 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      2 Scr=      1
