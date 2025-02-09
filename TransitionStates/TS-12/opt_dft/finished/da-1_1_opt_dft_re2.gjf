@@ -1,0 +1,5 @@
+%chk=da-1_1_opt_dft_re.chk
+%nprocshared=12
+%mem=48GB
+# wb97xd def2svp geom=allchk scrf=(iefpcm,solvent=toluene) opt=(calcfc,ts,noeigen,maxcycles=50,maxstep=10)
+
