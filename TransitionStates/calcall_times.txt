@@ -1,0 +1,330 @@
+allylic-1
+
+am1_maxstep1
+None ()
+gga_maxstep1
+None ()
+hf_maxstep1
+1h-38m-25.1s
+91 steps
+hfm_maxstep1
+1h-55m-18.3s
+86 steps
+hybrid_maxstep1
+3hr-4m-13.5s
+82 steps
+am1_maxstep10
+None ()
+gga_maxstep10
+None ()
+hf_maxstep10
+24m-48.2s
+26 steps
+hfm_maxstep10
+26m-50.0s
+21 steps
+hybrid_maxstep10 <-
+22m-31.7s
+10 steps
+----------
+hybrid_calcfc <--
+9m-3.7s
+34 steps
+----------
+
+cyclic-1
+
+am1_maxstep1
+None ()
+gga_maxstep1
+None ()
+hf_maxstep1
+2h-21m-32.8s
+63 steps
+hfm_maxstep1
+2h-15m-53s
+62 steps
+hybrid_maxstep1
+3h-43m-49.9s
+55 steps
+am1_maxstep10
+None ()
+gga_maxstep10
+None ()
+hf_maxstep10 <-
+31m-34.4s
+17 steps
+hfm_maxstep10
+38m-8.7s
+16 steps
+hybrid_maxstep10
+32m-42.0s
+7 steps
+----------
+hybrid_calcfc <--
+13m-42.2s
+28 steps
+----------
+
+da-1
+
+am1_maxstep1
+None ()
+gga_maxstep1
+None ()
+hf_maxstep1
+49m-19.0s
+51 steps
+hfm_maxstep1
+49m-1.6s
+51 steps
+hybrid_maxstep1
+1h-16m-49.3s
+45 steps
+am1_maxstep10
+None ()
+gga_maxstep10
+None ()
+hf_maxstep10 <-
+10m-54.7s
+12 steps
+hfm_maxstep10
+12m-32.5s
+11 steps
+hybrid_maxstep10
+11m-50.3s
+7 steps
+----------
+hybrid_calcfc <--
+3m-5.0s
+12 steps
+----------
+
+da-2
+
+am1_maxstep1
+None ()
+gga_maxstep1
+None ()
+hf_maxstep1
+1h-55s-34.3s
+67 steps
+hfm_maxstep1
+2h-5m-53.2s
+67 steps
+hybrid_maxstep1
+3h-26m-18.3s
+55 steps
+am1_maxstep10
+None ()
+gga_maxstep10
+None ()
+hf_maxstep10 <-
+26m-9.3s
+17 steps
+hfm_maxstep10
+34m-54.6s
+17 steps
+hybrid_maxstep10
+36m-57.5s
+10 steps
+----------
+hybrid_calcfc <--
+21m-28.6s
+48 steps
+----------
+
+imda-1
+
+am1_maxstep1
+None ()
+gga_maxstep1
+None ()
+hf_maxstep1
+2h-5m-24.6s
+53 steps
+hfm_maxstep1
+2h-12m-16.5s
+51 steps
+hybrid_maxstep1
+4h-6m-2.9s
+42 steps
+am1_maxstep10
+None ()
+gga_maxstep10
+None ()
+hf_maxstep10
+45m-36.0s
+21 steps
+hfm_maxstep10
+54m-54.8s
+19 steps
+hybrid_maxstep10 <-
+44m-53.0s
+8 steps
+----------
+hybrid_calcfc <--
+24m-13.4s
+38 steps
+----------
+
+imda-2
+
+am1_maxstep1
+None ()
+gga_maxstep1
+None ()
+hf_maxstep1
+2h-10m-14.9s
+51 steps
+hfm_maxstep1
+2h-25m-3.3s
+51 steps
+hybrid_maxstep1
+4h-30m-29.1s
+46 steps
+am1_maxstep10
+None ()
+gga_maxstep10
+None ()
+hf_maxstep10 <-
+28m-49.0s
+12 steps
+hfm_maxstep10
+36m-42.1s
+13 steps
+hybrid_maxstep10
+40m-15.6s
+7 steps
+----------
+hybrid_calcfc <--
+8m-29.9s
+10 steps
+----------
+
+TS-249
+
+am1_maxstep1
+None ()
+gga_maxstep1
+None ()
+hf_maxstep1
+None ()
+hfm_maxstep1
+None ()
+hybrid_maxstep1
+None ()
+am1_maxstep10
+None ()
+gga_maxstep10
+None ()
+hf_maxstep10
+None ()
+hfm_maxstep10
+None ()
+hybrid_maxstep10
+None ()
+----------
+hybrid_calcfc <--
+2m-35.9s
+16 steps
+----------
+
+TS-325
+
+am1_maxstep1
+None ()
+gga_maxstep1
+None ()
+hf_maxstep1
+8h-4m-50.3s
+141 steps
+hfm_maxstep1
+7h-45m-23.1s
+122 steps
+hybrid_maxstep1
+10h-14m-57.0s
+107m
+am1_maxstep10
+None ()
+gga_maxstep10
+None ()
+hf_maxstep10
+4h-20m-17.6s
+101 steps
+hfm_maxstep10
+3h-34m-37.4s
+57 steps
+hybrid_maxstep10 <-
+1h-30m-34.2s
+12 steps
+----------
+hybrid_calcfc <--
+39m-55.5s
+48 steps
+----------
+
+TS-68
+
+am1_maxstep1
+None ()
+gga_maxstep1
+None ()
+hf_maxstep1
+9h-42m-30.9s
+183 steps
+hfm_maxstep1
+None ()
+hybrid_maxstep1
+None ()
+am1_maxstep10
+None ()
+gga_maxstep10
+None ()
+hf_maxstep10
+6h-23m-45.8s
+116 steps
+hfm_maxstep10 <-
+4h-29m-35.8s
+55 steps
+hybrid_maxstep10
+None ()
+----------
+hybrid_calcfc <--
+21m-28.2s
+27 steps
+----------
+
+TS-898
+
+am1_maxstep1
+None ()
+gga_maxstep1
+None ()
+hf_maxstep1
+5h-38m-14.0s
+159 steps
+hfm_maxstep1
+4h-13m-34.0s
+137 steps
+hybrid_maxstep1
+7h-21m-45.9s
+114 steps
+am1_maxstep10
+None ()
+gga_maxstep10
+None ()
+hf_maxstep10
+2h-8m-47.6s
+75 steps
+hfm_maxstep10
+1h-36m-23.5s
+54 steps
+hybrid_maxstep10 <-
+59m-30.0s
+16 steps
+----------
+hybrid_calcfc <--
+19m-43.8s
+45 steps
+----------
