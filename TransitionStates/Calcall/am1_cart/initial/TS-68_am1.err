@@ -1,0 +1,18 @@
+Error: segmentation violation
+   rax 0000000000000000, rbx ffffffffffffffff, rcx 000015555466267b
+   rdx 0000000000000000, rsp 00007fffffff7f98, rbp 00007fffffff8510
+   rsi 000000000000000b, rdi 000000000008f59a, r8  0000000c00001000
+   r9  0000000000000401, r10 0000000000000009, r11 0000000000000202
+   r12 00007fffffff8558, r13 0000000000000000, r14 0000000000000000
+   r15 00000000000003e6
+  /lib64/libpthread.so.0(+0x12c20) [0x155554d84c20]
+  /lib64/libc.so.6(kill+0xb) [0x15555466267b]
+  /apps/gaussian/g16/C.01/g16/l9999.exe() [0x45d565]
+  /apps/gaussian/g16/C.01/g16/l9999.exe() [0x47855a]
+  /apps/gaussian/g16/C.01/g16/l9999.exe() [0x4acb1b]
+  /apps/gaussian/g16/C.01/g16/l9999.exe() [0x49fb0f]
+  /apps/gaussian/g16/C.01/g16/l9999.exe() [0x415e18]
+  /apps/gaussian/g16/C.01/g16/l9999.exe() [0x41131b]
+  /apps/gaussian/g16/C.01/g16/l9999.exe() [0x411224]
+  /lib64/libc.so.6(__libc_start_main+0xf3) [0x15555464e493]
+  /apps/gaussian/g16/C.01/g16/l9999.exe() [0x40b969]
