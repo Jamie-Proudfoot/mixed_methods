@@ -1,0 +1,143 @@
+==> allylic-1_1_opt_dft_re_freq.out <==
+ "WOULD YOU TELL ME PLEASE, WHICH WAY I OUGHT TO WALK FROM HERE?"
+ "THAT DEPENDS A GREAT DEAL ON WHERE YOU WANT TO GO," SAID THE CAT.
+ "I DON'T MUCH CARE WHERE -- ", SAID ALICE.
+ "THEN IT DOESN'T MATTER WHICH WAY YOU WALK," SAID THE CAT.
+
+                                      -- LEWIS CARROLL
+ Job cpu time:       0 days  0 hours 13 minutes 26.5 seconds.
+ Elapsed time:       0 days  0 hours  1 minutes  8.0 seconds.
+ File lengths (MBytes):  RWF=    114 Int=      0 D2E=      0 Chk=      8 Scr=      1
+ Normal termination of Gaussian 16 at Sat Dec 30 20:49:48 2023.
+
+==> allylic-1_1_opt_dft_reopt_freq.out <==
+ "WOULD YOU TELL ME PLEASE, WHICH WAY I OUGHT TO WALK FROM HERE?"
+ "THAT DEPENDS A GREAT DEAL ON WHERE YOU WANT TO GO," SAID THE CAT.
+ "I DON'T MUCH CARE WHERE -- ", SAID ALICE.
+ "THEN IT DOESN'T MATTER WHICH WAY YOU WALK," SAID THE CAT.
+
+                                      -- LEWIS CARROLL
+ Job cpu time:       0 days  0 hours 13 minutes 25.3 seconds.
+ Elapsed time:       0 days  0 hours  1 minutes  7.9 seconds.
+ File lengths (MBytes):  RWF=    114 Int=      0 D2E=      0 Chk=      8 Scr=      1
+ Normal termination of Gaussian 16 at Sat Dec 30 20:49:48 2023.
+
+==> allylic-1_1_opt_dft_reopt.out <==
+ H12F1N1)]\\@
+ The archive entry for this job was punched.
+
+
+ BREAD HAS TO MOLD IN ORDER TO GET PENICILLIN.
+          -- JERRY BOATZ
+ Job cpu time:       0 days  1 hours 27 minutes  0.2 seconds.
+ Elapsed time:       0 days  0 hours  7 minutes 25.0 seconds.
+ File lengths (MBytes):  RWF=    102 Int=      0 D2E=      0 Chk=      8 Scr=      1
+ Normal termination of Gaussian 16 at Fri Dec 22 22:59:20 2023.
+
+==> allylic-1_1_opt_dft_re.out <==
+ The archive entry for this job was punched.
+
+
+ You don't have to suffer to be a poet.
+ Adolescence is enough suffering for anyone.
+                             -- John Ciardi
+ Job cpu time:       0 days  0 hours 49 minutes 32.0 seconds.
+ Elapsed time:       0 days  0 hours  4 minutes 13.1 seconds.
+ File lengths (MBytes):  RWF=    114 Int=      0 D2E=      0 Chk=     13 Scr=      1
+ Normal termination of Gaussian 16 at Fri Dec 22 23:10:22 2023.
+
+==> allylic-1_1_opt_hf_re_freq.out <==
+ "WOULD YOU TELL ME PLEASE, WHICH WAY I OUGHT TO WALK FROM HERE?"
+ "THAT DEPENDS A GREAT DEAL ON WHERE YOU WANT TO GO," SAID THE CAT.
+ "I DON'T MUCH CARE WHERE -- ", SAID ALICE.
+ "THEN IT DOESN'T MATTER WHICH WAY YOU WALK," SAID THE CAT.
+
+                                      -- LEWIS CARROLL
+ Job cpu time:       0 days  0 hours 13 minutes 26.3 seconds.
+ Elapsed time:       0 days  0 hours  1 minutes  8.0 seconds.
+ File lengths (MBytes):  RWF=    114 Int=      0 D2E=      0 Chk=      8 Scr=      1
+ Normal termination of Gaussian 16 at Sat Dec 30 20:49:48 2023.
+
+==> allylic-1_1_opt_hf_reopt_freq.out <==
+ "WOULD YOU TELL ME PLEASE, WHICH WAY I OUGHT TO WALK FROM HERE?"
+ "THAT DEPENDS A GREAT DEAL ON WHERE YOU WANT TO GO," SAID THE CAT.
+ "I DON'T MUCH CARE WHERE -- ", SAID ALICE.
+ "THEN IT DOESN'T MATTER WHICH WAY YOU WALK," SAID THE CAT.
+
+                                      -- LEWIS CARROLL
+ Job cpu time:       0 days  0 hours 13 minutes 26.7 seconds.
+ Elapsed time:       0 days  0 hours  1 minutes  8.0 seconds.
+ File lengths (MBytes):  RWF=    114 Int=      0 D2E=      0 Chk=      8 Scr=      1
+ Normal termination of Gaussian 16 at Sat Dec 30 20:49:48 2023.
+
+==> allylic-1_1_opt_hf_reopt.out <==
+
+
+ Boundary, n.  In political geography, an imaginary
+ line between two nations, separating the imaginary
+ rights of one from the imaginary rights of another.
+                               -- Ambrose Bierce
+ Job cpu time:       0 days  0 hours 42 minutes 54.8 seconds.
+ Elapsed time:       0 days  0 hours  3 minutes 39.8 seconds.
+ File lengths (MBytes):  RWF=    101 Int=      0 D2E=      0 Chk=      8 Scr=      1
+ Normal termination of Gaussian 16 at Fri Dec 22 17:40:38 2023.
+
+==> allylic-1_1_opt_hf_re.out <==
+ 63,-5.1058217,-0.7941446,2.9006306,-3.0359441,4.9023786\PG=C01 [X(C6H1
+ 2F1N1)]\\@
+ The archive entry for this job was punched.
+
+
+ ASKING DUMB QUESTIONS IS EASIER THAN CORECTING DUMB MISTAKES.
+ Job cpu time:       0 days  0 hours 23 minutes 45.6 seconds.
+ Elapsed time:       0 days  0 hours  2 minutes  1.7 seconds.
+ File lengths (MBytes):  RWF=     66 Int=      0 D2E=      0 Chk=      8 Scr=      1
+ Normal termination of Gaussian 16 at Fri Dec 22 23:22:23 2023.
+
+==> allylic-1_1_opt_sqm_re_freq.out <==
+ "WOULD YOU TELL ME PLEASE, WHICH WAY I OUGHT TO WALK FROM HERE?"
+ "THAT DEPENDS A GREAT DEAL ON WHERE YOU WANT TO GO," SAID THE CAT.
+ "I DON'T MUCH CARE WHERE -- ", SAID ALICE.
+ "THEN IT DOESN'T MATTER WHICH WAY YOU WALK," SAID THE CAT.
+
+                                      -- LEWIS CARROLL
+ Job cpu time:       0 days  0 hours 13 minutes 21.3 seconds.
+ Elapsed time:       0 days  0 hours  1 minutes  7.5 seconds.
+ File lengths (MBytes):  RWF=    114 Int=      0 D2E=      0 Chk=      8 Scr=      1
+ Normal termination of Gaussian 16 at Sat Dec 30 20:49:48 2023.
+
+==> allylic-1_1_opt_sqm_reopt_freq.out <==
+ "WOULD YOU TELL ME PLEASE, WHICH WAY I OUGHT TO WALK FROM HERE?"
+ "THAT DEPENDS A GREAT DEAL ON WHERE YOU WANT TO GO," SAID THE CAT.
+ "I DON'T MUCH CARE WHERE -- ", SAID ALICE.
+ "THEN IT DOESN'T MATTER WHICH WAY YOU WALK," SAID THE CAT.
+
+                                      -- LEWIS CARROLL
+ Job cpu time:       0 days  0 hours 13 minutes 20.4 seconds.
+ Elapsed time:       0 days  0 hours  1 minutes  7.4 seconds.
+ File lengths (MBytes):  RWF=    114 Int=      0 D2E=      0 Chk=      8 Scr=      1
+ Normal termination of Gaussian 16 at Sat Dec 30 20:49:48 2023.
+
+==> allylic-1_1_opt_sqm_reopt.out <==
+ The archive entry for this job was punched.
+
+
+ MISERY NO LONGER LOVES COMPANY.  NOWADAYS IT INSISTS ON IT.
+
+                                              -- BAKER'S LAW
+ Job cpu time:       0 days  0 hours 47 minutes  8.4 seconds.
+ Elapsed time:       0 days  0 hours  4 minutes  1.1 seconds.
+ File lengths (MBytes):  RWF=    101 Int=      0 D2E=      0 Chk=      8 Scr=      1
+ Normal termination of Gaussian 16 at Fri Dec 22 23:35:13 2023.
+
+==> allylic-1_1_opt_sqm_re.out <==
+ THE TRULY SUCCESSFUL PERFORMANCE OF RESEARCHES IN
+ INORGANIC CHEMISTRY IS POSSIBLE ONLY TO ONE WHO IS NOT
+ ONLY A THEORETICAL CHEMIST, BUT ALSO AN ACCOMPLISHED
+ ANALYST AND, MOREOVER, NOT MERELY A PRACTICALLY TRAINED,
+ MECHANICAL WORKER, BUT A THINKING CREATIVE ARTIST.
+   --  CLEMENS WINKLER, BER. 33, 1697(1900)
+ Job cpu time:       0 days  1 hours 39 minutes 42.6 seconds.
+ Elapsed time:       0 days  0 hours  8 minutes 32.0 seconds.
+ File lengths (MBytes):  RWF=    101 Int=      0 D2E=      0 Chk=      8 Scr=      1
+ Normal termination of Gaussian 16 at Fri Dec 22 23:51:17 2023.
