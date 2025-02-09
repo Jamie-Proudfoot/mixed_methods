@@ -1,0 +1,2 @@
+Note:
+No AM1 (SQM) opt=calcfc finished optimizing within 3 cycles
