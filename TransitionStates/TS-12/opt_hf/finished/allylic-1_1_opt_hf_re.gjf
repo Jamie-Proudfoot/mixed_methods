@@ -1,0 +1,4 @@
+%chk=allylic-1_1_opt_hf_re.chk
+%nprocshared=12
+%mem=48GB
+# wb97xd def2svp geom=allchk scrf=(iefpcm,solvent=toluene) opt=(readfc,ts,noeigen,maxcycles=50,maxstep=10)
