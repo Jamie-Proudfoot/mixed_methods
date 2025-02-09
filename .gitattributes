@@ -1,3 +1,4 @@
+# Try to make GitHub avoid incorrect language assignments
 GroundStates/* linguist-vendored
 TransitionStates/* linguist-vendored
 mixed_methods/GroundStates/* linguist-vendored
