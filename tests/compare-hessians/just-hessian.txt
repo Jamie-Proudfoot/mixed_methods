@@ -1,0 +1,25 @@
+# Just Hessian calculations 
+
+
+# 1. Gaussian command (1 step optimization)
+%chk=checkpoints/check
+opt=(calcfc,maxstep=1,maxcycles=1) 
+# 2. Create formatted checkpoint file containing hessian
+formchk check.chk check.fchk
+or chkchk -p check > check.gjf
+
+
+# 1. Gaussian command (-1 step optimization)
+%chk=checkpoints/check
+opt=(calcfc,maxstep=-1,maxcycles=-1) 
+# 2. Create formatted checkpoint file containing hessian
+formchk check.chk check.fchk
+or chkchk -p check > check.gjf
+
+
+# 1. Gaussian command (-1 step optimization)
+%chk=checkpoints/check
+freq=noraman
+# 2. Create formatted checkpoint file containing hessian
+formchk check.chk check.fchk
+or chkchk -p check > check.gjf

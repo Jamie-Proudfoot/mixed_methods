@@ -1,0 +1,14 @@
+# Working: MiMe and normal Gaussian give the same results
+-H pm6 -EF hf pm6 freq=noraman |vs| hf 6-31g(d) freq=noraman
+-H hf 6-31g(d) -EF hf 6-31g(d) freq=noraman |vs| hf 6-31g(d) freq=noraman
+-H hf 6-31g(d) -EF wb97xd def2svp freq=noraman |vs| hf 6-31g(d) freq=noraman
+
+# Not working: MiMe and normal Gaussian give different results
+-H pm6 -EF hf pm6 freq=noraman |vs| pm6 freq=noraman
+-H pm6 -EF hf 6-31g(d) freq=noraman |vs| pm6 freq=noraman
+-H pm6 -EF wb97xd def2svp freq=noraman |vs| hf 6-31g(d) freq=noraman
+
+# Not working: MiMe and normal Gaussian give different results
+-H am1 -EF hf pm6 freq=noraman |vs| am1 freq=noraman
+-H am1 -EF hf 6-31g(d) freq=noraman |vs| am1 freq=noraman
+-H am1 -EF wb97xd def2svp freq=noraman |vs| hf 6-31g(d) freq=noraman

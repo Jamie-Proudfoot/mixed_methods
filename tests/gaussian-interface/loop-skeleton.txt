@@ -1,0 +1,64 @@
+-> Geometry0
+-> Hessian0 = ML0(Geometry0)
+----------
+Step1(Geometry0,Hessian0)
+-> Geometry1
+----------
+-> Hessian1 = ML1(Geometry1)
+----------
+Step2(Geometry1,Hessian1)
+-> Geometry2
+----------
+-> Hessian2 = ML2(Geometry2)
+----------
+Step3(Geometry2,Hessian2)
+-> Geometry3
+----------
+
+MiMe calcall loop:
+# Nsteps-1 Hessian calculations
+1. Gaussian outputs features X (EIN.EIn)
+2. MiMe takes in features X (MiMe.py)
+3. MiMe calculates labels H (MiMe.py)
+4. MiMe outputs labels H (EOut.EOut)
+5. Gaussian inputs Hessian H (Gaussian16)
+6. Gaussian Berny step X->X' (Gaussian16)
+
+MiMe calcfc loop:
+# One Hessian calculation
+1. MiMe takes in features X (MiMe.py)
+2. MiMe calculates labels H (MiMe.py)
+3. MiMe outputs labels H (job.in)
+4. Gaussian optimisation X-->Xfin (Gaussian16)
+
+# May be possible to relay MiMe calcfc loops into MiMe calcall
+
+X -> (MiMe calcfc, nsteps=1) -> (MiMe calcfc, nsteps=1) --> X'
+
+EXAMPLE GAUSSIAN INPUT FILE USING EXTERNAL FOR CALCALL
+
+# external="MiMe am1 wb97xd3-def2svp"
+opt(calcall,nomicro)
+
+MiMe test on H2 geometry optimisation
+
+0 1
+H	0.0000	0.0000	0.0000
+H	1.0000	0.0000	0.0000
+
+With the external command: MiMe
+and parameters:
+<low> = am1
+<high> = wb97xd3-def2svp
+
+MiMe <low> <high>
+
+<low>: MiMe calls a FREQ job from Gaussian and returns low level values of: 
+Hessian
+<high>: MiMe calls a SP job from Gaussian and returns high level values of:
+Energy, Dipole, Gradient on atoms
+
+using the <high> values and Geom from Gaussian, 
+MiMe corrects the <low> Hessian and returns an ML-Hessian
+
+

@@ -1,0 +1,48 @@
+
+External="LowHess <low-level> <high-level>"
+
+Input file:
+
+# N 2 0 1 
+
+O	... 0
+N	... 0
+C	... 0
+C	... 0
+...
+H	... 0
+
+LowHess:
+
+1. Read Input file
+2. Write high_spe.gjf
+3. Write low_freq.gjf
+4. Run high_spe.gjf
+5. Wait 
+6. Run low_freq.gjf
+7. Wait
+8. Read high_spe.out E,Forces # cclib
+9. Read low_freq.out Hess # cclib
+10. Write E,Forces to Output # numpy
+11. Write lower triangular Hess to Output # numpy
+
+Output file:
+
+E
+.
+FX
+......
+Polar
+......
+DDip
+.........
+.........
+.........
+FFX
+..
+...
+....
+.....
+......
+.......
+
