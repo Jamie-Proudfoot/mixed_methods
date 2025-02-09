@@ -1,0 +1,26 @@
+Usage notes:
+
+1. Rename "MiMe.py" to "MiMe" and move it to a scripts/ folder in your home directory
+(or another location useful to you)
+MiMe.py -> scripts/MiMe
+
+2. Create a Python 3 environment that includes the following packages:
+(e.g., using conda)
+-numpy
+-subprocess
+-argparse
+-shutil
+-cclib
+
+3. Activate the Python environment
+
+4. While in the activated Python environemt, create the desired .gjf file and submit it to Gaussian:
+e.g.  
+# external="~/scripts/MiMe -H 'am1' -EF 'wb97xd def2svp' -c 12 -m 48GB" opt=(calcall,ts,noeigen,maxcycles=50,maxstep=10,nomicro,cartesian)
+where "~" is your home directory
+####
+In the above example, this script will optimise to a transition state using wB97XD/def2-SVP for Energy (E) and Forces (F) (specified with -EF) and using Force Constants (Hessian; H) from AM1 (specified with -H). The "nomicro" keyword must always be used when using the external keyword and MiMe.
+####
+
+5. If not in a Python environment that contains the required packages, the MiMe script will fail
+
