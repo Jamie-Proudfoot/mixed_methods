@@ -1,0 +1,2 @@
+Note:
+No AM1 (SQM) cartesian geometries optimized within 3 cycles
