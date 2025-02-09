@@ -1,0 +1,2 @@
+Note:
+No PBE (GGA) opt=calcall geometries finished optimizing within 3 cycles

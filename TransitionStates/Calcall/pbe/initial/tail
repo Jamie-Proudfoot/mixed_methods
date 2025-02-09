@@ -1,0 +1,119 @@
+==> allylic-1_2_gga.out <==
+ -------------------------------------------------------------------
+ Cartesian Forces:  Max     0.000748455 RMS     0.000226236
+
+
+ QED = W**5 (WHICH WAS WHAT WE WANTED)
+ Error termination request processed by link 9999.
+ Error termination via Lnk1e in /apps/gaussian/g16/C.01/g16/l9999.exe at Thu Jan 18 12:36:10 2024.
+ Job cpu time:       0 days 13 hours 19 minutes  0.3 seconds.
+ Elapsed time:       0 days  2 hours 10 minutes 14.0 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      2 Scr=      1
+
+==> cyclic-1_2_gga.out <==
+
+ IF NO USE IS MADE OF THE LABOR OF PAST AGES,
+ THE WORLD MUST REMAIN ALWAYS IN THE INFANCY OF KNOWLEDGE.
+
+                          -- CICERO
+ Error termination request processed by link 9999.
+ Error termination via Lnk1e in /apps/gaussian/g16/C.01/g16/l9999.exe at Thu Jan 18 14:24:12 2024.
+ Job cpu time:       0 days 23 hours 30 minutes 17.8 seconds.
+ Elapsed time:       0 days  3 hours 49 minutes  0.4 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      2 Scr=      1
+
+==> da-1_2_gga.out <==
+ Cartesian Forces:  Max     0.005088178 RMS     0.001500244
+
+
+ Money is a good servant but a bad master.
+                        -- French Proverb
+ Error termination request processed by link 9999.
+ Error termination via Lnk1e in /apps/gaussian/g16/C.01/g16/l9999.exe at Thu Jan 18 13:16:24 2024.
+ Job cpu time:       0 days 15 hours 46 minutes 27.7 seconds.
+ Elapsed time:       0 days  2 hours 15 minutes 36.4 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      1 Scr=      1
+
+==> da-2_2_gga.out <==
+ YE DRINK, BUT YE ARE NOT FILLED WITH DRINK.
+ YE CLOTHE YOU, BUT THERE IS NONE WARM.
+ AND HE THAT EARNETH WAGES EARNETH WAGES TO PUT
+ IT INTO A BAG WITH HOLES.
+                                     HAGGAI I,6
+ Error termination request processed by link 9999.
+ Error termination via Lnk1e in /apps/gaussian/g16/C.01/g16/l9999.exe at Thu Jan 18 15:12:37 2024.
+ Job cpu time:       1 days  4 hours 42 minutes 44.3 seconds.
+ Elapsed time:       0 days  4 hours 11 minutes 22.7 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      2 Scr=      1
+
+==> imda-1_2_gga.out <==
+ Integral buffers will be    131072 words long.
+ Raffenetti 1 integral format.
+ Two-electron integral symmetry is turned on.
+ External calculation of energy, first and second derivatives.
+ Running external command "~/scripts/MiMe -H 'pbepbe def2svp' -EF 'wb97xd def2svp' -c 12 -m 48GB R"
+         input file       "/local/jobs/1158156/Gau-77360.EIn"
+         output file      "/local/jobs/1158156/Gau-77360.EOu"
+         message file     "/local/jobs/1158156/Gau-77360.EMs"
+         fchk file        "/local/jobs/1158156/Gau-77360.EFC"
+         mat. el file     "/local/jobs/1158156/Gau-77360.EUF"
+
+==> imda-2_2_gga.out <==
+
+ PERICLES, SOPHOCLES,
+ PELOPONESIAN WAR,
+ FRENCH VERBS, LATIN VERBS
+ H2SO4.
+ Error termination request processed by link 9999.
+ Error termination via Lnk1e in /apps/gaussian/g16/C.01/g16/l9999.exe at Thu Jan 18 17:59:11 2024.
+ Job cpu time:       1 days 12 hours 17 minutes 30.6 seconds.
+ Elapsed time:       0 days  5 hours 41 minutes 57.3 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      2 Scr=      1
+
+==> TS-249_gga.out <==
+ IF YOU PERCEIVE THAT THERE ARE FOUR POSSIBLE WAYS IN
+ WHICH A PROCEDURE CAN GO WRONG AND CIRCUMVENT THESE, 
+ THEN A FIFTH WAY WILL DEVELOP.
+
+                              -- MURPHY'S TWELFTH LAW
+ Error termination request processed by link 9999.
+ Error termination via Lnk1e in /apps/gaussian/g16/C.01/g16/l9999.exe at Thu Jan 18 13:35:42 2024.
+ Job cpu time:       0 days  6 hours 43 minutes 40.9 seconds.
+ Elapsed time:       0 days  1 hours  5 minutes 21.0 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      1 Scr=      1
+
+==> TS-325_gga.out <==
+ Integral buffers will be    131072 words long.
+ Raffenetti 1 integral format.
+ Two-electron integral symmetry is turned on.
+ External calculation of energy, first and second derivatives.
+ Running external command "~/scripts/MiMe -H 'pbepbe def2svp' -EF 'wb97xd def2svp' -c 12 -m 48GB R"
+         input file       "/local/jobs/1158159/Gau-2795322.EIn"
+         output file      "/local/jobs/1158159/Gau-2795322.EOu"
+         message file     "/local/jobs/1158159/Gau-2795322.EMs"
+         fchk file        "/local/jobs/1158159/Gau-2795322.EFC"
+         mat. el file     "/local/jobs/1158159/Gau-2795322.EUF"
+
+==> TS-68_gga.out <==
+
+Parsing files ...
+SPE file: Gau-2799729_F.out
+FORCE file: Gau-2799729_F.out
+HESS file: Gau-2799729_H.out
+ Failed to open output file from external program.
+ Error termination via Lnk1e in /apps/gaussian/g16/C.01/g16/l402.exe at Thu Jan 18 12:37:39 2024.
+ Job cpu time:       0 days  0 hours  8 minutes 54.9 seconds.
+ Elapsed time:       0 days  0 hours  1 minutes 28.8 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      1 Scr=      1
+
+==> TS-898_gga.out <==
+
+
+ WHERE THERE IS MUCH DESIRE TO LEARN, THERE OF NECESSITY WILL BE
+ MUCH ARGUING, MUCH WRITING, MANY OPINIONS; FOR OPINION IN GOOD MEN
+ IS BUT KNOWLEDGE IN THE MAKING. -- JOHN MILTON.
+ Error termination request processed by link 9999.
+ Error termination via Lnk1e in /apps/gaussian/g16/C.01/g16/l9999.exe at Thu Jan 18 15:50:11 2024.
+ Job cpu time:       0 days 19 hours  1 minutes 41.6 seconds.
+ Elapsed time:       0 days  3 hours 12 minutes 29.6 seconds.
+ File lengths (MBytes):  RWF=      6 Int=      0 D2E=      0 Chk=      2 Scr=      1
