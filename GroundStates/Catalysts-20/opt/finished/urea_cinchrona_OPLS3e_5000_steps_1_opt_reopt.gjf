@@ -1,0 +1,4 @@
+%chk=urea_cinchrona_OPLS3e_5000_steps_1_opt.chk
+%nprocshared=12
+%mem=48GB
+# m062x chkbasis guess=read geom=allchk scrf=(iefpcm,solvent=benzene) opt=(maxcycles=50,maxstep=10)
