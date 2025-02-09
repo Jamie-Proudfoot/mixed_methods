@@ -1,0 +1,1 @@
+All optimizations using the HF Hessian completed within the first optimization cycle (within 60 steps).
