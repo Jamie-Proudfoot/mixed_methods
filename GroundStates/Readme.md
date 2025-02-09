@@ -1,0 +1,1 @@
+Directory of first (initial) and final (finished) Gaussian gjf/out/slm files for optimizing to ground state geometries. The main "initial" folder contains initial geometries (mol2) files from which the optimizations were started.
