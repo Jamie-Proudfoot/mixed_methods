@@ -1,0 +1,2 @@
+%chk=da-1_1_sqm.chk
+# wb97xd def2svp geom=allchk scrf=(iefpcm,solvent=toluene) opt=(readfc,ts,noeigen,maxcycles=50,maxstep=10)
